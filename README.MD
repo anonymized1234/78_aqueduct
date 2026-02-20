@@ -18,6 +18,6 @@
 | System     | Throughput (baseline) | Median Latency (baseline) | Tail Latency (baseline) |
 |------------|-----------------------|---------------------------|-------------------------|
 | aqueduct   | 369775.00             | 769.26                    | 1104                    |
-| rocksteady | 224648.00             | 29.23                     | 61.82 (normalized)      |
+| rocksteady | 224648.00             | 29.23                     | 61.82                   |
 | ramcloud   | 219137.00             | 34.20                     | 52.17                   |
 | fulva      | 237449.00             | 31.41                     | 53.88                   |
