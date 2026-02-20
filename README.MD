@@ -4,7 +4,7 @@
 **1\. Raw Numbers**
 
  **955**
-[ycsb_plots.pdf](Rebuttal%20for%20%E2%80%9C%20Aqueduct%20In-Memory%20Data%20Organization%20for%20Rapid%20and%20Smooth%20Elasticity%20in%20Key-Value%20Stores%20%E2%80%9C%20%28Paper%20%2378%29,%20Middleware%2026/ycsb_plots.pdf)<!-- {"embed":"true", "preview":"true"} -->
+[ycsb_plots.pdf](955.pdf)<!-- {"embed":"true", "preview":"true"} -->
 
 ### Baseline Numbers:
 | System     | Throughput (baseline) | Median Latency (baseline) | Tail Latency (baseline) |
@@ -27,7 +27,7 @@
 **2\. Fair Experiment - 1 thread on the source on thread on the recipient**
 
 **955**
-[ycsb_plots 3.pdf](Rebuttal%20for%20%E2%80%9C%20Aqueduct%20In-Memory%20Data%20Organization%20for%20Rapid%20and%20Smooth%20Elasticity%20in%20Key-Value%20Stores%20%E2%80%9C%20%28Paper%20%2378%29,%20Middleware%2026/ycsb_plots%203.pdf)<!-- {"embed":"true", "preview":"true"} -->
+[ycsb_plots 3.pdf](955.pdf)<!-- {"embed":"true", "preview":"true"} -->
 
 **5050**
-[ycsb_plots 4.pdf](Rebuttal%20for%20%E2%80%9C%20Aqueduct%20In-Memory%20Data%20Organization%20for%20Rapid%20and%20Smooth%20Elasticity%20in%20Key-Value%20Stores%20%E2%80%9C%20%28Paper%20%2378%29,%20Middleware%2026/ycsb_plots%204.pdf)<!-- {"embed":"true", "preview":"true"} -->
+[5050.pdf](5050.pdf)<!-- {"embed":"true", "preview":"true"} -->
