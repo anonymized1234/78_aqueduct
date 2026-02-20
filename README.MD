@@ -3,7 +3,7 @@
 
 **1\. Raw Numbers (Baseline Performance)**
 
-[Figure 14 raw performance](955.pdf)<!-- {"embed":"true", "preview":"true"} -->
+[Figure 14 raw performance figure](955.pdf)<!-- {"embed":"true", "preview":"true"} -->
 
 ### Figure 14 Baseline Numbers:
 | System     | Throughput (baseline) | Median Latency (baseline) | Tail Latency (baseline) |
@@ -13,8 +13,8 @@
 | ramcloud   | 458502.00             | 18.81                     | 54.01                   |
 | fulva      | 442813.00             | 24.44                     | 60.25                   |
 
-[Figure 15 Baseline Numbers](5050.pdf)<!-- {"embed":"true", "preview":"true"} -->
-### Baseline Numbers:
+[Figure 15 raw performance figure](5050.pdf)<!-- {"embed":"true", "preview":"true"} -->
+### Figure 15 Baseline Numbers:
 | System     | Throughput (baseline) | Median Latency (baseline) | Tail Latency (baseline) |
 |------------|-----------------------|---------------------------|-------------------------|
 | aqueduct   | 369775.00             | 769.26                    | 1104                    |
