@@ -1,10 +1,9 @@
 # Rebuttal for “ Aqueduct: In-Memory Data Organization for Rapid and Smooth Elasticity in Key-Value Stores “ (Paper #78), Middleware 26
 
 
-**1\. Raw Numbers**
+**1\. Raw Numbers (Baseline Performance)**
 
- **955**
-[ycsb_plots.pdf](955.pdf)<!-- {"embed":"true", "preview":"true"} -->
+[Figure 14 raw performance](955.pdf)<!-- {"embed":"true", "preview":"true"} -->
 
 ### Baseline Numbers:
 | System     | Throughput (baseline) | Median Latency (baseline) | Tail Latency (baseline) |
@@ -15,7 +14,7 @@
 | fulva      | 442813.00             | 24.44                     | 60.25                   |
 
 **5050**
-[5050.pdf](5050.pdf)<!-- {"embed":"true", "preview":"true"} -->
+[Figure 15 raw performance](5050.pdf)<!-- {"embed":"true", "preview":"true"} -->
 ### Baseline Numbers:
 | System     | Throughput (baseline) | Median Latency (baseline) | Tail Latency (baseline) |
 |------------|-----------------------|---------------------------|-------------------------|
