@@ -13,7 +13,6 @@
 | ramcloud   | 458502.00             | 18.81                     | 54.01                   |
 | fulva      | 442813.00             | 24.44                     | 60.25                   |
 
-**5050**
 [Figure 15 raw performance](5050.pdf)<!-- {"embed":"true", "preview":"true"} -->
 ### Baseline Numbers:
 | System     | Throughput (baseline) | Median Latency (baseline) | Tail Latency (baseline) |
@@ -22,11 +21,3 @@
 | rocksteady | 224648.00             | 29.23                     | 61.82 (normalized)      |
 | ramcloud   | 219137.00             | 34.20                     | 52.17                   |
 | fulva      | 237449.00             | 31.41                     | 53.88                   |
-
-**2\. Fair Experiment - 1 thread on the source on thread on the recipient**
-
-**955**
-[ycsb_plots 3.pdf](955.pdf)<!-- {"embed":"true", "preview":"true"} -->
-
-**5050**
-[5050.pdf](5050.pdf)<!-- {"embed":"true", "preview":"true"} -->
